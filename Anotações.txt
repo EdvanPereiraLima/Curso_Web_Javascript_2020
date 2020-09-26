@@ -12,3 +12,6 @@ bibliotecas carregadas no site que esta carregando.
 Exemplo: No site do jquery.org fica disponível a biblioteca jquery.
 
 NaN -> Not A Number
+
+Template String -> Utilizar simbolo da crase (`) para colocar textos com quebras de linhas em uma concatenação sem 
+precisar concatenar (Simbolo ou função)
