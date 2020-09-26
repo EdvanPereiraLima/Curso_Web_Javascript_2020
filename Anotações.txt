@@ -1,0 +1,7 @@
+Sites para teste de execução:
+
+1º repl.it
+https://repl.it/repls/LinedFavoriteMaps#index.js
+
+2º jsfiddle
+https://jsfiddle.net/
