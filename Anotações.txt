@@ -5,3 +5,8 @@ https://repl.it/repls/LinedFavoriteMaps#index.js
 
 2º jsfiddle
 https://jsfiddle.net/
+
+3º Google Chrome
+Na opção de desenvolvedor (F12) é possível executar comandos javascript e também utilizar comandos das 
+bibliotecas carregadas no site que esta carregando. 
+Exemplo: No site do jquery.org fica disponível a biblioteca jquery.
