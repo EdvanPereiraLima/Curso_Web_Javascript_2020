@@ -15,3 +15,7 @@ NaN -> Not A Number
 
 Template String -> Utilizar simbolo da crase (`) para colocar textos com quebras de linhas em uma concatenação sem 
 precisar concatenar (Simbolo ou função)
+
+Json -> Javascript Object Notation (Notação de Objeto Javascript)
+Um objeto em javascript não é a mesmoa coisa que Json
+
